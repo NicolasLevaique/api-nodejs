@@ -5,7 +5,7 @@ Installation instructions:
 --------------------------
 
 1. Install NodeJS in order to download dependencies and serve the API
-2. Downlowd the projet and go to main folder
+2. Download the project and go to main folder
 3. Use npm install to download dependencies
 4. Use node main.js to start the API
 
