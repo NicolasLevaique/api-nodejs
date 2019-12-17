@@ -13,7 +13,8 @@ logger.info('Logging activated');
 
 mongoose.set('debug', true);
 var db_username = "db_user";
-var db_password = "db_password";
+var db_password = "db_password_editGG";
+// api_key: azikty1224abcdefghij0123412789
 mongoose.connect('mongodb://' + db_username + ':' + db_password + '@ds039331.mongolab.com:39331/db');
 
 var db = mongoose.connection;
